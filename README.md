@@ -9,9 +9,11 @@ This app scraps this website - https://pokemondb.net/pokedex/all
 
 jar file: https://github.com/AlishBii/WSA/tree/main/out/artifacts/WSapp_jar2
 
+tutorial presentation: https://docs.google.com/presentation/d/1Wofql2BV9lHReYmUfQmscpKoNHvgWezL4OBI40Ly914/edit#slide=id.p
+
 
 Contact
 
 Alisher - ballisher@mail.ru
-tutorial presentation: https://docs.google.com/presentation/d/1Wofql2BV9lHReYmUfQmscpKoNHvgWezL4OBI40Ly914/edit#slide=id.p
+
 
